@@ -1,6 +1,7 @@
 # multi-agent-forecasting-basic
 
-<img width="709" alt="Moderator Listener - Output Window" src="https://github.com/user-attachments/assets/dc05b413-f955-4e4d-832c-e93af4b25ac7">
+#### Example Output
+<img width="500" alt="Moderator Listener - Output Window" src="https://github.com/user-attachments/assets/dc05b413-f955-4e4d-832c-e93af4b25ac7">
 
 ### Step 1: Install/Configure Dependencies 
 
