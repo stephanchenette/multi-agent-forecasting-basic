@@ -1,5 +1,7 @@
 # multi-agent-forecasting-basic
 
+<img width="916" alt="active_window" src="https://github.com/user-attachments/assets/1358a3dd-9814-409f-a11e-d2bdc2d23383">
+
 ### Step 1: Install/Configure Dependencies 
 
 ```bash
