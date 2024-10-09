@@ -93,7 +93,6 @@ except Exception as e:
 
 logger.debug("Preparing to subscribe to event channels")
 
-# Wrap the main logic in a try-except block for error logging
 try:
 
     logger.debug(f"OpenAI API key: {client.api_key[:5]}...")  # Log first 5 chars of API key
